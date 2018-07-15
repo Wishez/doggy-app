@@ -2,6 +2,7 @@
   It is simple app with the simplest React integration. You can switch dogs and to melt it.
 
 # Demo
+  https://wishez.github.io/doggy-app/doggy.html
   
 # Just take it
   1. Take repository
