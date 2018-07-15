@@ -15,7 +15,7 @@ body,
   display: flex;
   font-family: Avenir, Arial, Helvetica, sans-serif;
   font-size: 60px;
-  flex-flow: column wrap;
+  flex-flow: column;
   align-items: center;
   justify-content: center;
 }
